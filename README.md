@@ -3,6 +3,10 @@
 Outil en ligne de commande pour la gestion sécurisée de mots de passe, avec chiffrement local et accès rapide aux identifiants via le terminal.
 ⚠️ Ce projet est pédagogique et ne remplace pas un gestionnaire de mots de passe professionnel.
 
+## Membres
+- Roland Ung
+- Jeff Bernabeo
+
 
 ## Fonctionnalités indispensables 
 ### 1 - Initialisation du magasin de mot de passe

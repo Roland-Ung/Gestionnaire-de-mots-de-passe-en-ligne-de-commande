@@ -86,7 +86,7 @@ git clone https://github.com/Roland-Ung/Projet_Gestionnaire_mots_de_passe.git
 cd Projet_Gestionnaire_mots_de_passe
 ```
 
-2. Créer un environnement virtuel
+2. Créer un environnement virtuel (optionnel)
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Linux / macOS

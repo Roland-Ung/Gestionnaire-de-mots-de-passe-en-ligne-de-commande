@@ -74,22 +74,30 @@ Outil en ligne de commande pour stocker de manière sécurisée des mots de pass
 ## Installation et utilisation
 
 ### Prérequis
-- Python 3.x
+- Python 3.8 ou plus récent
 - GPG installé sur votre système
+- Un terminal (Linux, macOS ou Windows)
 
 ### Installation
-1. Clonez le dépôt :
+1. Cloner le dépôt :
 ```bash
 git clone <url-du-depot>
-cd Gestionnaire-de-mots-de-passe
+cd Projet_Gestionnaire_mots_de_passe
 ```
 
-2. Installez les dépendances :
+2. Créer un environnement virtuel
+```bash
+python -m venv .venv
+source .venv/bin/activate  # Linux / macOS
+.venv\Scripts\activate     # Windows
+```
+
+3. Installer les dépendances :
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Créez une clé GPG si vous n'en avez pas :
+4. Créer une clé GPG si vous n'en avez pas :
 ```bash
 gpg --full-generate-key
 ```

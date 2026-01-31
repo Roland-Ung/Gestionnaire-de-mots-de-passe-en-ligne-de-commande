@@ -1,6 +1,7 @@
 # Gestionnaire de mots de passe en ligne de commande
 
 Outil en ligne de commande pour stocker de manière sécurisée des mots de passe dans des fichiers chiffrés.
+
 ⚠️ Ce projet est pédagogique et ne remplace pas un gestionnaire de mots de passe professionnel.
 
 ## Membres
@@ -140,7 +141,7 @@ python main.py delete gmail
 ## Structure du projet
 
 ```
-Gestionnaire-de-mots-de-passe/
+Projet_Gestionnaire_mots_de_passe/
 │
 ├── main.py              Programme contenant chaque fonction et le 'main'
 ├── password_store/      Magasin de mot de passe crée après 'init'

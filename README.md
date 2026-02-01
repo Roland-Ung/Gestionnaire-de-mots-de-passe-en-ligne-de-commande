@@ -6,6 +6,11 @@
 - Roland Ung
 - Jeff Bernabeo
 
+## Objectifs
+- Concevoir un gestionnaire de mots de passe manipulable en ligne de commande.
+- Stocker les mots de passe sous forme chiffrée à l’aide de GPG.
+- Appliquer les bonnes pratiques de sécurité : chiffrement, permissions de fichiers.
+
 
 ## Fonctionnalités indispensables 
 ### 1 - Initialisation du magasin de mot de passe
